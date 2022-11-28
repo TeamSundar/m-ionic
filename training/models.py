@@ -72,7 +72,7 @@ class TransformerLayer(nn.Module):
 
 
 class IonicProtein(nn.Module):
-    def __init__(self, feature_dim, hidden_dim=64, num_encoder_layers=2, num_heads=4, augment_eps=0.05, dropout=0.2):
+    def __init__(self, feature_dim, hidden_dim=128, num_encoder_layers=4, num_heads=4, augment_eps=0.05, dropout=0.2):
         super(IonicProtein, self).__init__()
 
         # Hyperparameters
