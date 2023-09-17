@@ -1,5 +1,4 @@
 # M-Ionic
-===========
 Prediction of metal ion binding sites from sequence using residue embeddings
 
 A pipeline to identify proteins which bind to metals as well as which residues in the protein are involved in metal-binding. The output of this method provides ion-specific probabilities for each residue. 
