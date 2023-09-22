@@ -9,6 +9,8 @@ A pipeline to identify proteins which bind to metals as well as which residues i
 3. Predict the binding probability using the saved model parameters 
 4.  __Output:__ the predicted binding probability for each ion for each residue in the protein sequence
 
+## How to use: 
+M-Ionic can be used on your protein of interest using a Google Colab Notebook (https://bit.ly/40FrRbK)
 
 
 
